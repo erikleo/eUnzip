@@ -1,2 +1,2 @@
 # eUnzip
-Fastest and easiest way to unzip downloads
+For more info please see: http://eunzip.com
